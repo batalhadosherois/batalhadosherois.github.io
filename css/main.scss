@@ -43,7 +43,9 @@ $on-laptop:        800px;
     }
 }
 
-
+head{
+    background-color: 'red';
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
