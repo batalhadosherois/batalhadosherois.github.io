@@ -6,7 +6,7 @@ var data = [
 			tag: 'img',
 			attr: {
 				src: 'img/comeco.jpg',
-				width: '150px',
+				width: '50px',
 				cssclass: 'img-responsive'
 			}
 		},
