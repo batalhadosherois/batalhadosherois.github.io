@@ -20,15 +20,23 @@ var data = [
 		}]
 	},
 	{
-		time: '2015-04-15',
+		time: '2016-05-25',
 		body: [{
-			tag: 'h1',
-			content: "Basic content"
+			tag: 'img',
+			attr: {
+				src: 'img/Mexicano.jpg',
+				width: '100px',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Mexicano'
 		},
 		{
 			tag: 'p',
-			content: 'Lorem ipsum dolor sit amet, nisl lorem, wisi egestas orci tempus class massa, suscipit eu elit urna in urna, gravida wisi aenean eros massa, cursus quisque leo quisque dui.'
-		}],
+			content: 'Primeira comida mexicana'
+		}]
 	},
 	{
 		time: '2016-01-20',
