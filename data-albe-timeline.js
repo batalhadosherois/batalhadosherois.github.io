@@ -43,7 +43,7 @@ var data = [
 		body: [{
 			tag: 'img',
 			attr: {
-				src: '../img/qrcode.png',
+				src: 'img/comeco.png',
 				width: '150px',
 				cssclass: 'img-responsive'
 			}
