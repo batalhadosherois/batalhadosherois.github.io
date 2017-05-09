@@ -7,10 +7,10 @@ h5 { margin-top: 5px; margin-bottom: 5px; line-height: 1; }
 ul#timeline-menu { height: 50px; text-align: center; }
     ul#timeline-menu li { position: relative; float: left; list-style: none; margin: 0px; padding: 0px; }
         ul#timeline-menu li a { display: block; text-decoration: none; font-size: 16px; padding: 10px; padding-top: 20px; color: black; font-weight: bold; border-bottom: 5px solid transparent; }
-            ul#timeline-menu li a:hover { color: #EF693A; border-bottom: 5px solid red; font-weight: normal; }
+            ul#timeline-menu li a:hover { color: #EF693A; border-bottom: 5px solid #ff0099; font-weight: normal; }
 
 section#timeline { width: 90%; margin: 20px auto; padding-bottom: 20px; position: relative; }
-    section#timeline:before { top: 0; bottom: 0; position: absolute; content: " "; width: 2px; background-color: #EF693A; left: 50%; height: 100%; margin-left: -1.5px; }
+    section#timeline:before { top: 0; bottom: 0; position: absolute; content: " "; width: 2px; background-color: #ff0099; left: 50%; height: 100%; margin-left: -1.5px; }
     section#timeline article { width: 100%; margin-bottom: 20px; position: relative; }
         section#timeline article:after { content: ''; display: block; clear: both; }
 
@@ -30,4 +30,4 @@ section#timeline { width: 90%; margin: 20px auto; padding-bottom: 20px; position
     section#timeline article div.panel div.badge { display: block; text-align: center; cursor: none; font-weight: bold; -moz-box-shadow: 0 0 0 2px #EF693A, inset 0 2px 0 rgba(0, 0, 0, 0.1), 0 3px 0 2px rgba(0, 0, 0, 0.15); -webkit-box-shadow: 0 0 0 2px #EF693A, inset 0 2px 0 rgba(0, 0, 0, 0.1), 0 3px 0 2px rgba(0, 0, 0, 0.15); box-shadow: 0 0 0 2px #EF693A, inset 0 2px 0 rgba(0, 0, 0, 0.1), 0 3px 0 2px rgba(0, 0, 0, 0.15); }
     section#timeline div[class*="group"] { width: 65px; font-size: 1.3em; margin: 35px auto; padding: 5px; border-radius: 0px; background: #EF693A; color: #FFF; }
     section#timeline article div.panel div.badge { position: absolute; top: 0; left: 50%; margin: 0 0 0 -15px; border-radius: 50%; font-size: 0.75em; width: 30px; height: 30px; background: #FFF; color: #EF693A; }
-        section#timeline article div.panel div.badge:last-child { background-color: #EF693A; width: 20px; height: 20px; margin: 0 0 0 -10px; }
+        section#timeline article div.panel div.badge:last-child { background-color: #ff0099; width: 20px; height: 20px; margin: 0 0 0 -10px; }
