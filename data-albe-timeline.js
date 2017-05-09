@@ -78,6 +78,13 @@ var data = [
 	}
 ];
 
+$(".img-responsive").click(function(){
+    var source=$(this).attr('src');
+    var $dialog = $('<div></div>') 
+         .html('<img src="'+source+'" width="200" height="200" alt="Milk(1 lit)">') 
+         .dialog({ autoOpen: true, resizable: false, draggable: false, width: 600, height:600, modal: true, title: 'Create Your Own PopUp Window' }); 
+}); 
+
 $(document).ready(function () {
 
 	$("#myTimeline").albeTimeline(data);
