@@ -6,18 +6,17 @@ var data = [
 			tag: 'img',
 			attr: {
 				src: 'img/comeco.jpg',
-				width: '100%',
-				cssclass: 'img-responsive',
-				padding: '1px 1px 1px 1px'
+				width: '90%',
+				cssclass: 'img-responsive'
 			}
 		},
 		{
 			tag: 'h2',
-			content: 'Começo do Namoro'
+			content: 'O Começo!'
 		},
 		{
 			tag: 'p',
-			content: 'Começamos'
+			content: 'O dia em que pedi esta bela dama em namoro. Um pedido inusitado, estavamos de cabeça para baixo em um brinquedo no Holi Parque. Não sei se ela entendeu o que disse na hora, mas o importante é que ela aceitou hauahauhauh.'
 		}]
 	},
 	{
@@ -26,9 +25,8 @@ var data = [
 			tag: 'img',
 			attr: {
 				src: 'img/Mexicano.jpg',
-				width: '100%',
-				cssclass: 'img-responsive',
-				padding: '1px 1px 1px 1px'
+				width: '90%',
+				cssclass: 'img-responsive'
 			}
 		},
 		{
@@ -37,7 +35,7 @@ var data = [
 		},
 		{
 			tag: 'p',
-			content: 'Primeira comida mexicana'
+			content: 'Foto tirada após almoçarmos comida mexicana. Este dia é importante, pois, foi a primeira vez que utilizamos um cupom de desconto, algo que se repete várias vezes até hoje =D'
 		}]
 	}
 ];
