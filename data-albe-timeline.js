@@ -7,7 +7,8 @@ var data = [
 			attr: {
 				src: 'img/comeco.jpg',
 				width: '100%',
-				cssclass: 'img-responsive'
+				cssclass: 'img-responsive',
+				padding: '1px 1px 1px 1px'
 			}
 		},
 		{
@@ -26,7 +27,8 @@ var data = [
 			attr: {
 				src: 'img/Mexicano.jpg',
 				width: '100%',
-				cssclass: 'img-responsive'
+				cssclass: 'img-responsive',
+				padding: '1px 1px 1px 1px'
 			}
 		},
 		{
