@@ -43,7 +43,7 @@ var data = [
 		body: [{
 			tag: 'img',
 			attr: {
-				src: 'img/comeco.png',
+				src: 'img/comeco.jpg',
 				width: '150px',
 				cssclass: 'img-responsive'
 			}
