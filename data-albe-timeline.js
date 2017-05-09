@@ -44,7 +44,7 @@ var data = [
 			tag: 'img',
 			attr: {
 				src: 'img/comeco.jpg',
-				width: '150px',
+				width: '150px !important',
 				cssclass: 'img-responsive'
 			}
 		},
