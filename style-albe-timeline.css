@@ -21,7 +21,7 @@ section#timeline { width: 90%; margin: 20px auto; padding-bottom: 20px; position
             section#timeline > article > div.panel .panel-heading .panel-title { color: #FFF; }
         section#timeline > article > div.panel .panel-body { padding: 15px; position: relative; }
     section#timeline article div.panel-body:after { content: ''; position: absolute; top: 20px; right: -5px; width: 10px; height: 10px; -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); -webkit-transform: rotate(-45deg); transform: rotate(-45deg); background: #FFF; }
-    section#timeline > article > div.panel .panel-body img { float: left; margin: 0 0; }
+    section#timeline > article > div.panel .panel-body img { float: left; margin: 15px 15px; }
     section#timeline > article > div.panel .panel-footer { padding: 15px; background-color: #EEE; }
 
     section#timeline > article.inverted > div.panel { float: right; }
