@@ -25,21 +25,7 @@
      <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
 </head>
 <body>
-    <div> 
-    <div id="dias" style="border-radius: 100%;border: 2px solid #a1a1a1;background: #dddddd;">
-    </div>
-    <div id="horas">
-    </div>
-    <div id="minutos">
-    </div>
-    <div id="segundos">
-    </div>
-    </div>
-    <h1>Te Amo Stefani</h1>
-    <div id="myTimeline">
-    </div>
-    <div id="myTimeline2">
-    </div>
+    <p id="demo" align="center" style="font-size:36px;font-family:Fantasy"></p>
      <script src="https://cdn.jsdelivr.net/jquery/1.11.1/jquery.min.js"></script>
     <script src="jquery-albe-timeline-2.0.1.min.js"></script>
     <script src="data-albe-timeline.js"></script>
@@ -66,10 +52,7 @@ var x = setInterval(function() {
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
     // Output the result in an element with id="demo"
-    document.getElementById("dias").innerHTML = days + " D ";
-    document.getElementById("horas").innerHTML = hours + " H ";
-    document.getElementById("minutos").innerHTML = minutes + " M ";
-    document.getElementById("segundos").innerHTML = seconds + " S ";
+    document.getElementById("demo").innerHTML = days + " D " + hours + " H " + minutes + " M " + seconds + " S ";
     
 }, 1000);
 </script>
