@@ -20,6 +20,44 @@ var data = [
 		}]
 	},
 	{
+		time: '2017-04-07',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/07042017.jpg',
+				width: '90%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Tchê Café'
+		},
+		{
+			tag: 'p',
+			content: ''
+		}]
+	},
+		{
+		time: '2017-01-26',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/26012017.jpg',
+				width: '90%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Rio de Janeiro!'
+		},
+		{
+			tag: 'p',
+			content: ''
+		}]
+	},
+	{
 		time: '2016-07-23',
 		body: [{
 			tag: 'img',
