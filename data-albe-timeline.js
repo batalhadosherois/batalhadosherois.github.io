@@ -1,5 +1,5 @@
 //Json Object
-var data = [
+var data2016 = [
 	{
 		time: '2016-05-15',
 		body: [{
@@ -37,6 +37,28 @@ var data = [
 			tag: 'p',
 			content: ''
 		}]
+	}
+];
+
+var data2017 = [
+	{
+		time: '2017-04-07',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/07042017.jpg',
+				width: '95%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Tchê Café'
+		},
+		{
+			tag: 'p',
+			content: ''
+		}]
 	},
 		{
 		time: '2017-01-26',
@@ -56,25 +78,6 @@ var data = [
 			tag: 'p',
 			content: ''
 		}]
-	},
-	{
-		time: '2016-07-23',
-		body: [{
-			tag: 'img',
-			attr: {
-				src: 'img/Mexicano.jpg',
-				width: '95%',
-				cssclass: 'img-responsive'
-			}
-		},
-		{
-			tag: 'h2',
-			content: 'Mexicano'
-		},
-		{
-			tag: 'p',
-			content: 'Foto tirada após almoçarmos comida mexicana. Este dia é importante, pois, foi a primeira vez que utilizamos um cupom de desconto, algo que se repete várias vezes até hoje =D'
-		}]
 	}
 ];
 
@@ -82,13 +85,7 @@ var data = [
 
 $(document).ready(function () {
 
-	$("#myTimeline").albeTimeline(data);
-	
-	$(".img-responsive").click(function(){
-    var source=$(this).attr('src');
-    var $dialog = $('<div></div>') 
-         .html('<img src="'+source+'" width="200" height="200" alt="Milk(1 lit)">') 
-         .dialog({ autoOpen: true, resizable: false, draggable: false, width: 600, height:600, modal: true, title: 'Create Your Own PopUp Window' }); 
-}); 
+	$("#myTimeline").albeTimeline(data2016);
+	$("#myTimeline2").albeTimeline(data2017);
 
 });
