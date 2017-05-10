@@ -6,7 +6,7 @@ var data = [
 			tag: 'img',
 			attr: {
 				src: 'img/comeco.jpg',
-				width: '90%',
+				width: '95%',
 				cssclass: 'img-responsive'
 			}
 		},
@@ -25,7 +25,7 @@ var data = [
 			tag: 'img',
 			attr: {
 				src: 'img/07042017.jpg',
-				width: '90%',
+				width: '95%',
 				cssclass: 'img-responsive'
 			}
 		},
@@ -44,7 +44,7 @@ var data = [
 			tag: 'img',
 			attr: {
 				src: 'img/26012017.jpg',
-				width: '90%',
+				width: '95%',
 				cssclass: 'img-responsive'
 			}
 		},
@@ -63,7 +63,7 @@ var data = [
 			tag: 'img',
 			attr: {
 				src: 'img/Mexicano.jpg',
-				width: '90%',
+				width: '95%',
 				cssclass: 'img-responsive'
 			}
 		},
