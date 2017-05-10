@@ -4,7 +4,7 @@ h3,
 h4,
 h5 { margin-top: 5px; margin-bottom: 5px; line-height: 1; }
 
-p { color: red;}
+p { color: purple; font-family:"Cursive";}
 
 ul#timeline-menu { height: 50px; text-align: center; }
     ul#timeline-menu li { position: relative; float: left; list-style: none; margin: 0px; padding: 0px; }
