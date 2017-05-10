@@ -19,7 +19,7 @@ section#timeline { width: 90%; margin: 20px auto; padding-bottom: 20px; position
     section#timeline > article > div.panel { width: 45%; float: left; background: #FFF; border: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15); -moz-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15); box-shadow: 0 1px 6px rgba(0, 0, 0, 0.15); }
         section#timeline > article > div.panel .panel-heading { padding: 5px 10px; margin: 0; font-size: 1.2em; background-color: #EE0000; overflow: hidden; text-align: center; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; }
             section#timeline > article > div.panel .panel-heading .panel-title { color: #FFF; }
-        section#timeline > article > div.panel .panel-body { padding: 15px; position: relative; }
+        section#timeline > article > div.panel .panel-body { padding: 5px; position: relative; border-radius: 50%}
     section#timeline article div.panel-body:after { content: ''; position: absolute; top: 20px; right: -5px; width: 10px; height: 10px; -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); -webkit-transform: rotate(-45deg); transform: rotate(-45deg); background: #FFF; }
     section#timeline > article > div.panel .panel-body img { float: left; margin: 15px 15px; }
     section#timeline > article > div.panel .panel-footer { padding: 5px; background-color: #EEE; border-radius: 50%}
