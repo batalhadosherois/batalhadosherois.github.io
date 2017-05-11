@@ -43,6 +43,25 @@ var data2016 = [
 
 var data2017 = [
 	{
+		time: '2017-05-06',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/06052017.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Batalha de Gigantes'
+		},
+		{
+			tag: 'p',
+			content: 'Uma batalha épica, de 3 rounds, vencida por mim u.u. Foi uma grande luta!'
+		}]
+	},
+	{
 		time: '2017-04-07',
 		body: [{
 			tag: 'img',
