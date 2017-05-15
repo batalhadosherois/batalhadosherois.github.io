@@ -12,11 +12,11 @@ var data2016 = [
 		},
 		{
 			tag: 'h2',
-			content: ''
+			content: 'Festa em Família!'
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Uma das várias festas Soares que já participamos, sempre com muitos membros reunidos hauhauah, seja bem-vinda Stefani!'
 		}]
 	},
 	{
@@ -31,11 +31,11 @@ var data2016 = [
 		},
 		{
 			tag: 'h2',
-			content: ''
+			content: 'Experiência de Quase Morte.'
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Esse dia foi louco! Rafting com muita aventura, muita água e momentos de tensão /o\'
 		}]
 	},
 	{
@@ -50,11 +50,11 @@ var data2016 = [
 		},
 		{
 			tag: 'h2',
-			content: ''
+			content: 'Dia dos Namorados'
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Nosso primeiro dia dos namorados, comida japonesa e clássico entre Palmeiras e Corinthians. Que Dia!'
 		}]
 	},
 	{
@@ -69,11 +69,11 @@ var data2016 = [
 		},
 		{
 			tag: 'h2',
-			content: ''
+			content: 'Outback em Família'
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Se envolver com alguém é também se envolver com uma nova família e isso pode ser prazeroso e saboroso.'
 		}]
 	},
 	{
@@ -88,11 +88,11 @@ var data2016 = [
 		},
 		{
 			tag: 'h2',
-			content: ''
+			content: 'Stand up'
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Com certeza um dos momentos mais engraçados que passamos juntos, este Marcelo Marrom é um mito.'
 		}]
 	},
 	{
@@ -107,11 +107,11 @@ var data2016 = [
 		},
 		{
 			tag: 'h2',
-			content: ''
+			content: 'Primeira Viagem'
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Me de a mão para fugir desta terrível escuridão... Minas Gerais quase um mês juntos, comendo queijo *-*'
 		}]
 	},
 	{
@@ -130,7 +130,7 @@ var data2016 = [
 		},
 		{
 			tag: 'p',
-			content: 'O dia em que pedi esta bela dama em namoro. Um pedido inusitado, estavamos de cabeça para baixo em um brinquedo no Holi Parque. Não sei se ela entendeu o que disse na hora, mas o importante é que ela aceitou hauahauhauh.'
+			content: 'O dia em que pedi esta bela dama em namoro. Estavamos de cabeça para baixo em um brinquedo no Holi Parque. Não sei se ela entendeu o que disse na hora, mas o importante é que ela aceitou hauahauhauh.'
 		}]
 	},
 		{
@@ -145,11 +145,11 @@ var data2016 = [
 		},
 		{
 			tag: 'h2',
-			content: 'Mexicano'
+			content: 'Comida Mexicana'
 		},
 		{
 			tag: 'p',
-			content: 'Foto tirada após almoçarmos comida mexicana. Este dia é importante, pois, foi a primeira vez que utilizamos um cupom de desconto, algo que se repete várias vezes até hoje =D'
+			content: 'Este dia é importante, pois, foi a primeira vez que utilizamos um cupom de desconto, algo que vem se repetindo muito =D'
 		}]
 	}
 	
@@ -172,7 +172,7 @@ var data2017 = [
 		},
 		{
 			tag: 'p',
-			content: 'Uma batalha épica, de 3 rounds, vencida por mim u.u. Foi uma grande luta!'
+			content: 'Uma batalha épica, de 3 rounds, vencida por mim u.u. Um fim de semana muito bom para comemorar o aniversário da nossa sobrinha Manu.'
 		}]
 	},
 	{
@@ -187,11 +187,11 @@ var data2017 = [
 		},
 		{
 			tag: 'h2',
-			content: ''
+			content: 'Dança do Aniversariante'
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Uma dança para comemorar meus 27 anos e o primeiro aniversário ao lado dela s2.'
 		}]
 	},
 	{
@@ -206,11 +206,11 @@ var data2017 = [
 		},
 		{
 			tag: 'h2',
-			content: ''
+			content: 'Dia de Rock Bebê'
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Ir no festival que conta com Linkin Park, Rise Against e Pennywise já é foda pra carai, ir com essa gata é muito melhor!'
 		}]
 	},
 	{
@@ -225,11 +225,11 @@ var data2017 = [
 		},
 		{
 			tag: 'h2',
-			content: ''
+			content: 'Nando Reis'
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Quem conhece essa menina, deve imaginar o tamanho da felicidade dela em ir à um show desse cara.'
 		}]
 	},
 	{
@@ -248,7 +248,7 @@ var data2017 = [
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'Encontramos o tão sonhado chopp escuro que ela queria. Mais uma noite agradável ao lado dela.'
 		}]
 	},
 		{
@@ -267,7 +267,7 @@ var data2017 = [
 		},
 		{
 			tag: 'p',
-			content: ''
+			content: 'A primeira viagem só nossa. Uma semana sensacional como tudo que fazemos juntos!'
 		}]
 	}
 ];
