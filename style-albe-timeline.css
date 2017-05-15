@@ -1,8 +1,8 @@
-body { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 14px; line-height: 1em; color: #333; background-size: 100%;background-attachment: fixed;background-image: url("img/12062016.jpg"); background-color: #464646; margin: 0; }
+body { font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 14px; line-height: 1em; color: #333; background-size: 100%;background-attachment: fixed;background-image: url("img/11092016.jpg"); background-color: #464646; margin: 0; }
 h2,
 h3,
 h4,
-h5 { text-align: center; margin-top: 5px; margin-bottom: 5px; line-height: 1; padding-top: 10px}
+h5 { font-family:"Cursive"; font-size:15px; text-align: center; margin-top: 5px; margin-bottom: 5px; line-height: 1; padding-top: 10px}
 
 p { font-family:"Cursive";}
 
