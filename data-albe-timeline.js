@@ -210,7 +210,7 @@ var data2017 = [
 		},
 		{
 			tag: 'p',
-			content: 'Ir no festival que conta com Linkin Park, Rise Against e Pennywise já é foda pra carai, ir com essa gata é muito melhor!'
+			content: 'Ir no festival que conta com Linkin Park, Rise Against e Pennywise já é foda pra carai, ir com essa gata foi muito melhor!'
 		}]
 	},
 	{
