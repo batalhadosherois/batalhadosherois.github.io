@@ -35,7 +35,7 @@ var data2016 = [
 		},
 		{
 			tag: 'p',
-			content: 'Esse dia foi louco! Rafting com muita aventura, muita água e momentos de tensão /o\'
+			content: 'Esse dia foi louco! Rafting com muita aventura, muita água e momentos de tensão =O'
 		}]
 	},
 	{
