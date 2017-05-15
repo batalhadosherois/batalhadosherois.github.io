@@ -294,7 +294,7 @@ var data2017 = [
 
 
 $(document).ready(function () {
-
+    	$("#my_audio").get(0).play();
 	$("#myTimeline").albeTimeline(data2016);
 	$("#myTimeline2").albeTimeline(data2017);
 
