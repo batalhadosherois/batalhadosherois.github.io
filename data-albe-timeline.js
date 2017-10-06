@@ -251,25 +251,6 @@ var data2017 = [
 			content: 'Encontramos o tão sonhado chopp escuro que ela queria. Mais uma noite agradável ao lado dela.'
 		}]
 	},
-	{
-		time: '2017-05-15',
-		body: [{
-			tag: 'img',
-			attr: {
-				src: 'img/15052017.jpg',
-				width: '100%',
-				cssclass: 'img-responsive'
-			}
-		},
-		{
-			tag: 'h2',
-			content: '1 ANO!'
-		},
-		{
-			tag: 'p',
-			content: 'O primeiro de muitos que passaremos juntos! Obrigado por este ano maravilhoso, mostrei só alguns momentos aqui, mas você sabe que passamos e passaremos por muitos outros momentos. EU TE AMO MUITO! Feliz UM ano de namoro meu amor!'
-		}]
-	},
 		{
 		time: '2017-01-26',
 		body: [{
@@ -288,7 +269,122 @@ var data2017 = [
 			tag: 'p',
 			content: 'A primeira viagem só nossa. Uma semana sensacional como tudo que fazemos juntos!'
 		}]
+	},
+		{
+		time: '2017-05-15',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/15052017.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Juntos há 1 ano!'
+		},
+		{
+			tag: 'p',
+			content: 'É difícil imaginar a vida sem você, este é só o primeiro de muitos anos!'
+		}]
+	},
+		{
+		time: '2017-08-12',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/12082017.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Outback =P'
+		},
+		{
+			tag: 'p',
+			content: 'Tudo é muito mais gostoso ao seu lado! Eu te amo!'
+		}]
+	},
+		{
+		time: '2017-07-25',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/25072017.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Jantar em Família!'
+		},
+		{
+			tag: 'p',
+			content: 'Você já faz parte da família.'
+		}]
+	},
+		{
+		time: '2017-08-27',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/27082017.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Já é tradição!'
+		},
+		{
+			tag: 'p',
+			content: 'Festa Achiropita já é tradição, assim como nós dois juntos.'
+		}]
+	},
+		{
+		time: '2017-09-02',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/02092017.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Viagem inesquecível!'
+		},
+		{
+			tag: 'p',
+			content: 'Se esse dia foi bom, o que falar do dia seguinte?'
+		}]
+	},
+		{
+		time: '2017-09-03',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/03092017.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Noivos!'
+		},
+		{
+			tag: 'p',
+			content: 'Eu te amo, e sempre vou te amar, é com você que quero estar, você precisa acreditar.'
+		}]
 	}
+	
 ];
 
 
