@@ -383,8 +383,26 @@ var data2017 = [
 			tag: 'p',
 			content: 'Eu te amo, e sempre vou te amar, é com você que quero estar, você precisa acreditar.'
 		}]
-	}
-	
+	},
+		{
+		time: '2017-12-24',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/24122017.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Véspera de Natal!'
+		},
+		{
+			tag: 'p',
+			content: 'Então é nataaaaaal...'
+		}]
+	}	
 ];
 
 var data2018 = [
@@ -393,7 +411,7 @@ var data2018 = [
 		body: [{
 			tag: 'img',
 			attr: {
-				src: 'img/31082018.jpg',
+				src: 'img/31032018.jpg',
 				width: '100%',
 				cssclass: 'img-responsive'
 			}
@@ -404,9 +422,66 @@ var data2018 = [
 		},
 		{
 			tag: 'p',
-			content: 'Visitando a família dela e aproveitando a cachoeira!'
+			content: 'Visitando a família dela e aproveitando a cachoeira.'
 		}]
 	},
+	{
+		time: '2018-05-12',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/12052018.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Nosso novo lar.'
+		},
+		{
+			tag: 'p',
+			content: 'Visitando o nosso futuro lar!'
+		}]
+	},
+		{
+		time: '2018-04-08',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/08042018.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Festa do meu aniversário.'
+		},
+		{
+			tag: 'p',
+			content: 'Mais um aniversário comemorado ao seu lado. Te amo!'
+		}]
+	},
+	{
+		time: '2018-03-12',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/12032018.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Meu aniversário.'
+		},
+		{
+			tag: 'p',
+			content: 'Uma linda festa surpresa organizada por ela S2'
+		}]
+	}
 ];
 
 $(document).ready(function () {
