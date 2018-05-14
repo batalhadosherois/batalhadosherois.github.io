@@ -387,11 +387,31 @@ var data2017 = [
 	
 ];
 
-
+var data2018 = [
+	{
+		time: '2018-03-31',
+		body: [{
+			tag: 'img',
+			attr: {
+				src: 'img/31082018.jpg',
+				width: '100%',
+				cssclass: 'img-responsive'
+			}
+		},
+		{
+			tag: 'h2',
+			content: 'Passeio em Minas!'
+		},
+		{
+			tag: 'p',
+			content: 'Visitando a família dela e aproveitando a cachoeira!'
+		}]
+	},
+];
 
 $(document).ready(function () {
     	$("#my_audio").get(0).play();
 	$("#myTimeline").albeTimeline(data2016);
 	$("#myTimeline2").albeTimeline(data2017);
-
+	$("#myTimeline3").albeTimeline(data2018);
 });
